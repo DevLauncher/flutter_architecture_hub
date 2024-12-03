@@ -1,4 +1,11 @@
-# Flutter Clean Architecture Template
+# Flutter Architecture Hub
+
+This repository is a **fork** of [ersinaksar/flutter_architecture_hub](https://github.com/ersinaksar/flutter_architecture_hub).  
+The original source is maintained under the personal account and remains the primary development location.
+
+---
+
+## About This Project
 
 This repository is a Flutter project template implementing **Clean Architecture**, **Riverpod** for state management, and modular design principles. It’s designed for developers looking to create scalable and maintainable applications.
 
